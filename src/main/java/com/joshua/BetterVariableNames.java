@@ -6,7 +6,7 @@ public class BetterVariableNames {
 
         int studentAge = 25;
         double monthlySalary = 45000.50;
-        boolean isAccountActive = true;
+        boolean isAccount = true;
         String customerFullName = "Ada Lovelace";
         int studentsPerClass = 120;
     }

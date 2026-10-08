@@ -1,3 +1,7 @@
+package com.joshua;
+
+public class PredictTheResult{
+
 public static void main(String[] args) {
     int x = 8;
     int y = 3;
@@ -14,6 +18,7 @@ public static void main(String[] args) {
     System.out.println(x*z);
 
     System.out.println (x+y*2);
+}
 }
 
 

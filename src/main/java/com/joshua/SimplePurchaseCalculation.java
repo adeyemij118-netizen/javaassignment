@@ -1,3 +1,5 @@
+package com.joshua;
+
 public class SimplePurchaseCalculation {
     public static void main(String[] args) {
         int pricePerBook = 3500;
