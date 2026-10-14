@@ -7,7 +7,6 @@ public class SimplePurchaseCalculation {
 
         int totalPrice = pricePerBook * numberOfBooks;
 
-        // Print the result
         System.out.println("The total price for " + numberOfBooks + " books is: " + totalPrice);
     }
 }
