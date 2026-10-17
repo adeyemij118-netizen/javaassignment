@@ -7,7 +7,7 @@ public class variablesandnaming {
         int studentAge = 25;
         double employeeMonthlySalary = 45000.50;
         boolean isAccountActive = true;
-        String customerFullName = "Ada Lovelace";
+        String customerFullName = "AdaLovelace";
         int studentCountInClass = 120;
     }
 }
